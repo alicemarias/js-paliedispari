@@ -10,7 +10,7 @@ function sommaNumeri (utenteNumero, pcNumero){
   return risultato;
 }
 // stabilisco se somma è pari o dispari
-function pariDispari {
+function pariDispari (){
   if (risultato%2 == 0) {
     alert("la somma è un numero pari");
   } else {
